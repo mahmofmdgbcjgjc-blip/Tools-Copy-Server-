@@ -1,84 +1,57 @@
-<div align="center">🔴 ZERO COPY CLI
+🔴 ZERO COPY CLI
 
-DISCORD SERVER STRUCTURE MANAGER
+Discord Server Structure Manager
 
-A Python-powered tool for managing Discord server structures.
+<div align="center"><img src="https://img.shields.io/badge/PYTHON-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python">
+<img src="https://img.shields.io/badge/DISCORD-API-5865F2?style=for-the-badge&logo=discord" alt="Discord">
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-orange?style=for-the-badge" alt="Status"><br><br>
 
-<br>"Python" (https://img.shields.io/badge/PYTHON-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Discord" (https://img.shields.io/badge/DISCORD-API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-"Status" (https://img.shields.io/badge/STATUS-EXPERIMENTAL-orange?style=for-the-badge)
-
-<br>DEVELOPED BY ZERO STORE
+DEVELOPED BY ZERO STORE
 
 </div>---
 
-📌・ABOUT
+📌 ABOUT
 
-ZeroCopyCLI is a Python-based command-line project designed to help Discord server administrators manage and recreate supported server configurations.
+ZeroCopyCLI is a Python-based project designed for Discord server structure management.
 
-The project provides an organized workflow for handling server structures, supported settings, and configuration data.
+✨ FEATURES
 
-✨・FEATURES
+- 🛡️ Role Management
+- 📁 Channel Management
+- 🎨 Emoji Management
+- 🔐 Permission Handling
+- 📊 Operation Statistics
+- ⚙️ API Error Handling
+- 📝 Error Reporting
 
-Feature| Description
-🛡️ Role Management| Manage supported role settings
-📁 Channel Management| Handle channels and categories
-🎨 Emoji Management| Support server emoji assets
-🔐 Permissions| Handle supported permission settings
-📊 Statistics| Track successful and failed operations
-⚙️ API Handler| Handle API responses and temporary errors
-📝 Error Reporting| Display operation errors
-
-🧰・TECHNOLOGY
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"Requests" (https://img.shields.io/badge/Requests-222222?style=flat-square)
-"Discord API" (https://img.shields.io/badge/Discord%20REST%20API-5865F2?style=flat-square&logo=discord&logoColor=white)
+🧰 TECHNOLOGY
 
 - Python 3.8+
 - Requests
 - Discord REST API
 - JSON
 
-📥・INSTALLATION
-
-1. Clone the repository
+📥 INSTALLATION
 
 git clone https://github.com/YOUR_USERNAME/ZeroCopyCLI.git
-
-2. Open the project directory
-
 cd ZeroCopyCLI
-
-3. Install dependencies
-
 pip install requests
-
-4. Run the application
-
 python ZeroCopyCLI.py
 
-🔒・SECURITY
+🔒 SECURITY
 
 - Use official Discord Bot authentication.
 - Never share personal Discord account tokens.
-- Only use the application on servers you are authorized to manage.
-- Review operations before applying changes.
-- Keep backups of important server configurations.
+- Only use the application on authorized servers.
+- Keep backups before modifying configurations.
 
-🚧・PROJECT STATUS
+🚧 STATUS
 
-"Development" (https://img.shields.io/badge/Development-In%20Progress-orange?style=flat-square)
+Experimental — Under Development
 
-ZeroCopyCLI is currently under development.
+⚠️ DISCLAIMER
 
-Features, compatibility, and performance may change in future releases.
-
-⚠️・DISCLAIMER
-
-This project is intended for educational purposes and authorized Discord server administration.
-
-The developer is not responsible for unauthorized use, misuse, or data loss.
+For educational purposes and authorized server administration only.
 
 ---
 
@@ -88,12 +61,12 @@ BUILT WITH PRECISION.
 
 MADE FOR THE COMMUNITY.
 
-<br>""Discord" (https://img.shields.io/badge/JOIN%20ZERO%20STORE-5865F2?style=for-the-badge&logo=discord&logoColor=white)" (https://discord.gg/z-s)
+<a href="https://discord.gg/z-s">
+<img src="https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+</a><br><br>
 
-DISCORD.GG/Z-S
+discord.gg/z-s
 
-<br>© 2026 ZERO STORE
-
-ALL RIGHTS RESERVED.
+© 2026 ZERO STORE
 
 </div>
