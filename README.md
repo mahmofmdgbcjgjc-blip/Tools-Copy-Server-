@@ -33,7 +33,7 @@ ZeroCopyCLI is a Python-based project designed for Discord server structure mana
 
 📥 INSTALLATION
 
-git clone https://github.com/YOUR_USERNAME/ZeroCopyCLI.git
+git clone https://github.com/mahmofmdgbcjgjc-blip/Tools-Copy-Server-.git
 cd ZeroCopyCLI
 pip install requests
 python ZeroCopyCLI.py
